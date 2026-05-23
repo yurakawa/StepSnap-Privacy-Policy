@@ -23,6 +23,7 @@ StepSnap requires the following permissions to function:
 *   `storage`: To save your documentation locally.
 *   `tabs`: To manage the documentation preview and recording state across tabs.
 *   `downloads`: To allow you to export your documentation as files.
+*   `offscreen` & `tabCapture`: To support continuous video recording (MP4/WebM) of the active tab.
 
 ## 6. Changes to This Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
